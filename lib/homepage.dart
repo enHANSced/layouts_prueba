@@ -20,7 +20,7 @@ class MyHomePage extends StatelessWidget {
             ),
             Text(
               'London',
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+              style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 20),
             Text(
@@ -29,9 +29,9 @@ class MyHomePage extends StatelessWidget {
             ),
             Text(
               'Overcast Clouds',
-              style: TextStyle(fontSize: 30, color: Colors.grey),
+              style: TextStyle(fontSize: 35, color: Colors.grey),
             ),
-            SizedBox(height: 20),
+            SizedBox(height: 25),
             Column(
               children: <Widget>[
                 Row(
